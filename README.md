@@ -17,8 +17,8 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 
 ## PROGRAM:
-### Name: RITHIGA SRI.B
-### Register Number: 212221230083
+### Name: RIZWAN T
+### Register Number: 212222040134
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -94,10 +94,10 @@ plt.show()
 ## OUTPUT:
 
 ### True Stock Price, Predicted Stock Price vs time:
-![image](https://github.com/Rithigasri/rnn-stock-price-prediction/assets/93427256/72227e48-f0cc-40d9-85db-fd81a8146b5e)
+![4spdknac](https://github.com/user-attachments/assets/a9ab9168-960d-44d6-92db-f7e4ae584b88)
 
 ### Mean Square Error:
-![image](https://github.com/Rithigasri/rnn-stock-price-prediction/assets/93427256/b052a611-bb4e-4936-9cae-7ebe5cdb763f)
+![804wia3v](https://github.com/user-attachments/assets/3d168ac4-5294-468e-a9ac-10e97e68bf80)
 
 
 ## RESULT:
